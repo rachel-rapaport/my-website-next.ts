@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.divStyle {
+  @apply flex items-center justify-center h-screen text-4xl text-red-800;
+}
+
