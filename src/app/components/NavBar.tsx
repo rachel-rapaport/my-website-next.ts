@@ -10,7 +10,7 @@ const pageLinks: PageLinkProps[] = [
   { href: "/pages/login", text: "login" },
   { href: "/pages/todo", text: "todo" },
   { href: "/pages/users", text: "users" },
-  { href: "/pages/services", text: "services" },
+  { href: "/pages/reactQuery/userQuery", text: "userQuery" },
 ];
 
 const NavBar: React.FC = () => {
